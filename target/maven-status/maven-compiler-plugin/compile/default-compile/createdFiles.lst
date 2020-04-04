@@ -1,0 +1,12 @@
+Client\EventsData.class
+Client\ReceiveEvents.class
+Client\SendingClient.class
+ReceivingImageServer.class
+ReceivingEventServer.class
+EventsData.class
+Client\ImageData.class
+Client\ReceiveImage.class
+Client\SendEvents.class
+Client\SendImage.class
+ImageData.class
+MainServer.class
